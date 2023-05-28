@@ -1,0 +1,2 @@
+﻿Exception: Exception of type 'System.Exception' was thrown.
+StackTrace:    at LoggingException.Middleware.LoggingMiddleware.InvokeAsync(HttpContext context) in C:\progi\LoggingException\LoggingException\Middleware\LoggingMiddleware.cs:line 22

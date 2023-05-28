@@ -1,0 +1,13 @@
+C:\asp.net_remote\asp.net\firstless\asp.Lib\bin\Debug\asp.Lib.dll.config
+C:\asp.net_remote\asp.net\firstless\asp.Lib\bin\Debug\asp.Lib.dll
+C:\asp.net_remote\asp.net\firstless\asp.Lib\bin\Debug\asp.Lib.pdb
+C:\asp.net_remote\asp.net\firstless\asp.Lib\bin\Debug\EntityFramework.dll
+C:\asp.net_remote\asp.net\firstless\asp.Lib\bin\Debug\EntityFramework.SqlServer.dll
+C:\asp.net_remote\asp.net\firstless\asp.Lib\bin\Debug\EntityFramework.xml
+C:\asp.net_remote\asp.net\firstless\asp.Lib\bin\Debug\EntityFramework.SqlServer.xml
+C:\asp.net_remote\asp.net\firstless\asp.Lib\bin\Debug\ru\EntityFramework.resources.dll
+C:\asp.net_remote\asp.net\firstless\asp.Lib\obj\Debug\asp.Lib.csproj.AssemblyReference.cache
+C:\asp.net_remote\asp.net\firstless\asp.Lib\obj\Debug\asp.Lib.csproj.CoreCompileInputs.cache
+C:\asp.net_remote\asp.net\firstless\asp.Lib\obj\Debug\asp.Lib.csproj.CopyComplete
+C:\asp.net_remote\asp.net\firstless\asp.Lib\obj\Debug\asp.Lib.dll
+C:\asp.net_remote\asp.net\firstless\asp.Lib\obj\Debug\asp.Lib.pdb

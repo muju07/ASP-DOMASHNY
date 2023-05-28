@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "HrRoAwTkHROji9kszg2uhhYYNVv2UaVCSzYPfbRUTJ8=",
+  "Source": "Middleware_pipeline",
+  "BasePath": "_content/Middleware_pipeline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Middleware_pipeline/wwwroot",
+      "Source": "Middleware_pipeline",
+      "ContentRoot": "/home/kat/Desktop/Middleware_pipeline/wwwroot/",
+      "BasePath": "_content/Middleware_pipeline",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/kat/Desktop/Middleware_pipeline/wwwroot/img/download.jpeg",
+      "SourceId": "Middleware_pipeline",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/kat/Desktop/Middleware_pipeline/wwwroot/",
+      "BasePath": "_content/Middleware_pipeline",
+      "RelativePath": "img/download.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/download.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Home Page";
+    
+}
+
+<div class="text-center"
+<table class="table table-bordered table-sm table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @if(Model == null)
+            {
+                <tr>
+                    <td colspan="3">No model data</td>
+                </tr>
+            }
+            else
+            {
+                foreach (Product item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@string.Format("{0:C2}", item.Price)</td>
+                    </tr>
+                }
+            }
+        </tbody>
+</table>
+
+
